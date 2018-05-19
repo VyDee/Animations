@@ -21587,6 +21587,14 @@ Prefab:
       propertyPath: InitialModule.startSpeed.minScalar
       value: 1.0000
       objectReference: {fileID: 0}
+    - target: {fileID: 19800000, guid: ab0c03159a84d9c45ad82a1772cbc914, type: 2}
+      propertyPath: InitialModule.startSpeed.minScalar
+      value: 1.0000
+      objectReference: {fileID: 0}
+    - target: {fileID: 19800000, guid: ab0c03159a84d9c45ad82a1772cbc914, type: 2}
+      propertyPath: InitialModule.startSpeed.minScalar
+      value: 1.0000
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ab0c03159a84d9c45ad82a1772cbc914, type: 2}
   m_IsPrefabParent: 0
@@ -32921,6 +32929,14 @@ Prefab:
       propertyPath: InitialModule.startSpeed.minScalar
       value: 1.0000
       objectReference: {fileID: 0}
+    - target: {fileID: 19800000, guid: 0823f6e3921b4294883a5d00faa4ef98, type: 2}
+      propertyPath: InitialModule.startSpeed.minScalar
+      value: 1.0000
+      objectReference: {fileID: 0}
+    - target: {fileID: 19800000, guid: 0823f6e3921b4294883a5d00faa4ef98, type: 2}
+      propertyPath: InitialModule.startSpeed.minScalar
+      value: 1.0000
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0823f6e3921b4294883a5d00faa4ef98, type: 2}
   m_IsPrefabParent: 0
@@ -33817,6 +33833,17 @@ CapsuleCollider:
   m_Height: 0.98
   m_Direction: 1
   m_Center: {x: 0, y: 0.5, z: 0}
+--- !u!114 &1358076410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1358076407}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55532385a32c09e4aab810e578c9cf46, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1358447074 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 447a267b9d0ea2940a650a578ef9039a, type: 2}
@@ -37607,6 +37634,14 @@ Prefab:
     - target: {fileID: 400000, guid: d834642adc9326645adaa13be7ffc6ab, type: 2}
       propertyPath: m_RootOrder
       value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 19800000, guid: d834642adc9326645adaa13be7ffc6ab, type: 2}
+      propertyPath: InitialModule.startSize.minScalar
+      value: 2.5000
+      objectReference: {fileID: 0}
+    - target: {fileID: 19800000, guid: d834642adc9326645adaa13be7ffc6ab, type: 2}
+      propertyPath: InitialModule.startSize.minScalar
+      value: 2.5000
       objectReference: {fileID: 0}
     - target: {fileID: 19800000, guid: d834642adc9326645adaa13be7ffc6ab, type: 2}
       propertyPath: InitialModule.startSize.minScalar

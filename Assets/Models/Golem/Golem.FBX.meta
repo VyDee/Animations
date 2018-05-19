@@ -58,6 +58,7 @@ ModelImporter:
     7400022: jump
     7400024: fly
     7400026: land
+    7400028: idle
     9500000: //RootNode
     13700000: 1
   externalObjects:
